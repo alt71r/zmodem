@@ -1,1 +1,5 @@
-# zmodem
+Compact ZMODEM for C#
+---------------------
+
+
+
